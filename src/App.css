@@ -1,0 +1,14 @@
+.complete{
+  text-decoration: line-through;
+}
+.itemsrow{
+  width: 100%;
+  display: flex;
+}
+.buttonCloseModal{
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 18px;
+  background: none;
+}
